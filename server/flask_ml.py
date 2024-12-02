@@ -1,6 +1,7 @@
+
 ### ENSURE model_scratch.pt file is ON THE SERVER MACHINE ALONG WITH THIS CODE
 ### WILL CAUSE ERRORS IF NOT PRESENT
-
+### MAKE SURE YOU HAVE CREATED FOLDERS target_animals, unsure_animals, and uploads in the same directory this file exists
 
 import numpy as np
 import PIL
